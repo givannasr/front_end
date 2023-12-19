@@ -1,0 +1,1 @@
+É um bloco de código que se repete até que uma condição seja satisfeita.
